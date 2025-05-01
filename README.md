@@ -12,7 +12,7 @@
 <img align="right" height="160px" src="https://media.tenor.com/7bAOdcsuSuwAAAAM/rain-anime.gif" alt="Raining animation" />
 
 <!-- Bio -->
-- 🔭 Currently an Intern at Philips, Bengaluru
+- 🔭 Currently a Data Extraction Engineer at ReluConsultancy
 - 🌱 Exploring new technologies and frameworks
 - 💬 Let's talk about Python, Data Science, and how Rust is superior!
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ansh310)
